@@ -9,6 +9,9 @@ Featuring custom configurations for some of the following projects:
 * picom
 * nvim
 
+# Snaps
+![Cheese](/config/output/output.jpg)
+![Cheese](/config/output/terminal.jpg)
 
 ##### Arch_linux_common_problems_solutions.md file contains solutions to the common problems that happens after installing archlinux or manjaro
 
